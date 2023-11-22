@@ -1,0 +1,246 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.hgh{
+    padding-left: 15%;
+}
+#navigations{
+    display: flex;
+    flex-direction: row;
+    font-size: medium;
+}
+.navbar {
+    padding-left: 51%;
+    padding-top: 2.5%;
+    font-size: medium;
+}
+li{
+    list-style: none;
+    padding-inline: 6%;
+}
+.nameee{
+    padding-top: 3.5%;
+}
+#des{
+    font-size: medium;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+.maincontent span{
+    border-color:rgb(247, 117, 4) ;
+    border-radius: 4rem;
+    background-color: rgb(247, 117, 4);
+}
+.nextsec{
+    padding-top: 16%;
+}
+#title{
+    padding-left: 35%;
+}
+.upp{
+    /* background-image: url(Capture.PNG); */
+    background-repeat: no-repeat;
+}
+.skill12{
+    display: flex;
+    margin-bottom: 1.5rem;
+}
+.maincontent{
+    margin-top: 12%;
+}
+.maincontent h1{
+    font-size: 4rem;
+}
+.maincontent p{
+    margin-bottom: 5%;
+}
+#first{
+    margin-right: 1%;
+}
+.card{
+    border-radius: 5%;
+}
+.sk1{
+    display: flex;
+    margin-bottom: 9%;
+}
+
+.img{
+    display: flex;
+    margin-inline:3% ;
+    
+}
+.frames{
+  
+    margin: 1rem;
+    margin-inline: 1rem;
+    margin-inline:3% ;
+}
+.desc{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 4%;
+}
+.card {
+    width: 18rem;
+    border: 1px solid black; /* Adding a border to the card */
+    border-radius: 8px; /* Rounded corners for the card */
+    overflow: hidden; /* Ensure content doesn't overflow */
+}
+
+.card-body {
+    margin: 20px;
+}
+.frames {
+    max-width: 100%; /* Limit image width to not exceed card width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any extra spacing */
+    margin-bottom: 10px; /* Add some spacing between images */
+}
+.nameee{
+    padding-left: -2rem;
+}
+.about{
+    display: flex;
+    margin-left: 15%;
+}
+.mid{
+    background-color: rgb(251, 245, 255);
+    margin-top: 6rem;
+}
+.btn {
+    border-color:rgb(247, 117, 4) ;
+    border-radius: 4rem;
+    background-color: rgb(247, 117, 4);
+}
+/* .nextsec{
+    background-color: #f8f8f8;
+} */
+.imgg{
+    padding-right: 11rem;
+    padding-block: 5rem;
+}
+.content{
+    padding-right: 2rem;
+    padding-top: 8rem;
+}
+.diff{
+    padding-top: 6vh;
+}
+#SS{
+    padding-top: 3%;
+}
+.thirdsec{
+    margin-left: 15%;   
+}
+.cardsss{
+    display: flex;
+}
+.cardsss img{
+  border-radius: 4px;
+  padding: auto;
+  /* width: auto; */
+}
+.card-title{
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+}
+#Fd{
+    border-color:rgb(247, 117, 4) ;
+    border-radius: 4rem;
+    background-color: rgb(247, 117, 4);
+}
+#Sd{
+    border-color:rgb(247, 117, 4) ;
+    border-radius: 4rem;
+    background-color: #fff;
+    color: rgb(247, 117, 4);
+}
+.thirdsec h1{
+    margin-block: 4rem;
+    margin-left: 28%;
+}
+.card{
+    border-color: aliceblue;
+}
+.fffd {
+    margin-top: 4rem;
+    display: flex;
+    background-color: rgb(251, 245, 255);
+}
+.tes{
+    margin-left: 15rem;
+}
+.contentt{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.contentt img{
+    margin-left:28%;
+}
+.contactdetails{
+    display: flex;
+    padding-bottom: 1rem;
+}
+.name{
+    display: flex;
+    padding-bottom: 1rem;
+}
+.myInput {
+    border: 1px solid #bebebe; /* Change the color code (#ff0000) to the desired color */
+  }
+#fre h1{
+ 
+    padding-bottom: 1rem;
+}
+.firstname{
+    padding-right: 1rem;
+}
+.email{
+    padding-right: 1rem;
+}
+.message{
+    padding-bottom: 2rem;
+} 
+#fre{
+    padding: 6%;
+    padding-inline-end: 105%;
+    border: 1px solid #fff;
+    border-radius: 2%;
+    background-color: #fff;
+}
+.form{
+    margin-top: 9rem;
+    margin-left: 12rem;
+    border: 1px solid #fff;
+    border-radius: 2%;
+ }
+ form#fre input.myInput,
+form#fre textarea.myInput {
+    border: 1px solid rgb(253, 251, 255); /* Change the color code (#ff0000) to the desired color */
+    /* Add any other styles you want for the input boxes here */
+    background-color:  rgb(253, 251, 255);
+    border-radius: 0.5rem;
+}
+.landing{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    background-image: url(white-abstract-wallpaper_23-2148830027.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 44.75rem;
+}
+
+.maincontent{
+    display: flex;
+}
