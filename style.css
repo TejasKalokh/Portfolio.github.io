@@ -129,11 +129,11 @@ li{
     background-color: #f8f8f8;
 } */
 .imgg{
-    padding-right: 11rem;
-    padding-block: 5rem;
+    margin-right: 11rem;
+    margin-block: 5rem;
 }
 .content{
-    padding-right: 2rem;
+    margin-right: 2rem;
     padding-top: 8rem;
 }
 .diff{
